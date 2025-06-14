@@ -1,3 +1,6 @@
 [submodule "integrador-2019S1"]
 	path = integrador-2019S1
 	url = https://github.com/obj2-unahur/integrador-2019S1.git
+[submodule "sistema-ventas-spring-boot"]
+	path = sistema-ventas-spring-boot
+	url = https://github.com/parzibyte/sistema-ventas-spring-boot.git
